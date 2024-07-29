@@ -8,7 +8,7 @@
 
 ---
 
-* List of Python course topics covered:
+#### List of Python course topics covered:
 
 1. vscode
 2. variables
