@@ -1,5 +1,8 @@
-# Python Refresher
+# Python Refresher Course
+### This was completed as part of the requirement for the course
+###
 
+* [Certificate of Completion](https://www.udemy.com/certificate/UC-e2892e20-6a03-4d4c-aefe-833d3331c3c9/)
 
 
 ---
