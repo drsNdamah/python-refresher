@@ -1,8 +1,10 @@
 # Python Refresher Course
 ### This was completed as part of the requirement for the course
-###
+### The Complete Python/PostgreSQL Course 2.0
 
-* [Certificate of Completion](https://www.udemy.com/certificate/UC-e2892e20-6a03-4d4c-aefe-833d3331c3c9/)
+
+*Click to see: [Certificate of Completion](https://www.udemy.com/certificate/UC-e2892e20-6a03-4d4c-aefe-833d3331c3c9/)
+
 
 
 ---
